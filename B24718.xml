@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords-Justices of Ireland, a proclamation. Sydney, Tho: Coningesby. Forasmuch as all the clemency and indulgence which hath been extended to the Papists of this kingdom by Their Majesties, hath hitherto missed of it's desired effect, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24718</idno><idno type="EEBO-CITATION">99886506</idno>
+  <idno type="VID">186722</idno>
+  <idno type="EEBO-PROQUEST">2240889017</idno>
+  
+            <idno type="STC">Wing I443</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[13]</idno>
+            <idno type="STC">ESTC R226107</idno>
+            <idno type="STC">ESTC R226048</idno>
+            <idno type="STC">ESTC R226107</idno>
+            <idno type="PROQUEST">ocm99886506</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886506e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186722)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords-Justices of Ireland, a proclamation. Sydney, Tho: Coningesby. Forasmuch as all the clemency and indulgence which hath been extended to the Papists of this kingdom by Their Majesties, hath hitherto missed of it's desired effect, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook assignee of Benjamin Tooke printer to the King and Queen at their Majesties Printing-House on Ormonde Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at their Majesties castle of Dublin the nineteenth day of November, 1690 And in the second year of their Majesties reign.".</note>
+                  <note>In this edition the initial "F" in the text is three lines tall.</note>
+                  <note>Making Papists responsible for all plunder of Protestant subjects.--Steele.</note>
+                  <note>Steele notation: Arms 201. esten- them 2) have back.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  Ireland --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186722:1"/>
+            <head>
+               <figure>
+                  <figDesc>Royal blazon of William and Mary</figDesc>
+                  <head>WM RR</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>JE MEIN TIENDRAY</q>
+               </figure>
+            </head>
+            <head>BY THE LORDS JUSTICES OF IRELAND, A PROCLAMATION.</head>
+            <opener>
+               <salute>SYDNEY, THO: CONINGESBY.</salute>
+            </opener>
+            <p>FOrasmuch as all the Clemency and Indulgence which hath been exten<g ref="char:EOLhyphen"/>ded to the Papists of this Kingdom by Their Majesties, hath hither<g ref="char:EOLhyphen"/>to missed of it's desired Effect, and hath been so far from Inducing them to a Grateful Sense of Their Majesties Goodness and Mercy, that on the contrary, it hath rather encreased their Malice and Stubborn<g ref="char:EOLhyphen"/>ness, so that many of them, even whilst they live under Their Majesties Gracious Protection, and Claim the Benefit thereof, do nevertheless trans<g ref="char:EOLhyphen"/>gress all their Laws, and destroy Their good Protestant Subjects, and such of them as are not Actually Rapparees, Robbers, or Tories, do Excite and Encourage others to be so, and Connive at, and Countenance their Proceed<g ref="char:EOLhyphen"/>ings, by giving them Intelligence, Support, and Entertainment; so that Their Majesties good Subjects suffer more from those <hi>Irish</hi> Papists that pre<g ref="char:EOLhyphen"/>tend to submit, than from those that are in open Rebellion against them. And forasmuch as this grievous Mischief is not to be remedied otherwise than by making the Residue of the Papists in each County repair the Losses which the Protestants shall suffer from any of their Companions, We do there<g ref="char:EOLhyphen"/>fore hereby Declare, that if any of Their Majesties Protestant Subjects shall be Robbed or Plundered, or shall have his House or Haggard burnt by any Popish Rapparee, Tory, or Robber, upon Complaint and Proof thereof made to Vs, We will Cause such Person or Persons to be Reprized upon the Po<g ref="char:EOLhyphen"/>pish Inhabitants of the respective Counties where such Robbery or Burn<g ref="char:EOLhyphen"/>ing shall be committed, Excepting only such Papists as shall appear to have Acted the part of good Subjects, and to have done their Endeavour to pre<g ref="char:EOLhyphen"/>vent the aforesaid Crimes, or to Apprehend the Malefactors.</p>
+            <pb facs="tcp:186722:2"/>
+            <p>And whereas it is manifest how great Influence the Popish Priests have over their Votaries, so that they might hinder them from these Villanous Courses if they would, and since they do not, may well be thought to En<g ref="char:EOLhyphen"/>courage them thereunto. We do therefore Declare, that if any number of Robbers or Rapparees, exceeding Ten, shall keep in a Body together, and Robb or Plunder any Protestant, or burn any House or Haggard of Corn: We will not from thenceforth suffer any Popish Priest to Live or Reside in that County respectively where such Villany shall be committed; but will Prosecute him and them with the utmost Severity of the Law, which has not yet been done in any part of this Kingdom. And We also Declare, that We will not give Protection to any Person who hath a Son in the Enemies Quarters, unless before the Tenth Day of <hi>December</hi> next, such Son shall return unto His Majesties Obedience, and Live peaceably within that part of this Kingdom under Their Majesties Power, where<g ref="char:EOLhyphen"/>upon such Son so returning with his Arms and Cattle, shall have Their Majesties Protection; and in the mean time the Parent shall not be molested 'till he be first safely Conveyed beyond our Frontiers, in order to bring back his said Son to Their Majesties Obedience as aforesaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Their Majesties Castle of <hi>Dublin</hi>
+                  </hi>
+                  <date>
+                     <hi>the Nineteenth day of <hi>November,</hi> 1690 And in the Second Year of Their Majesties Reign.</hi>
+                  </date>
+               </dateline>
+               <lb/>God Save the KING and QUEEN.<lb/>
+               <signed>Jo<seg rend="sup">n</seg>. Davis.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Andrew Crook</hi> Assignee of <hi>Benjamin Tooke</hi> Printer to the King and Queen at Their Majesties Printing-house on <hi>Ormonde-Key.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
